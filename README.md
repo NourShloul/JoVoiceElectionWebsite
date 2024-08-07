@@ -7,7 +7,7 @@ Election Website Project
 Overview
 The election website project is designed to facilitate both voters and candidates in the election process. The website is divided into a user side, which includes voters and candidates, and an admin side for election supervision. The following document outlines the project details, team members, links to resources, and key functionalities.
 
-##Team Members
+## Team Members
 Scrum Master: Hosam abuelhija
 Product Owner: Ghayda'a Bdoor
 Developers Team:
@@ -15,10 +15,10 @@ Hadeel Al Zoubi
 Batool Khazali
 Sarah Al Shorman
 
-##Project Context
+## Project Context
 The election website includes the following functionalities:
 
-##Home Page:
+Home Page:
 
 Summary of services
 Explanation about the project and supporting entities
