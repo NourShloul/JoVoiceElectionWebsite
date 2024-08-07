@@ -11,9 +11,10 @@ The election website project is designed to facilitate both voters and candidate
 - Scrum Master: Hosam abuelhija
 - Product Owner: Ghayda'a Bdoor
 - Developers Team:
-1. adeel Al Zoubi
-2. Batool Khazali
-3. Sarah Al Shorman
+1. Nour Shloul
+2. Hadeel Al Zoubi
+3. Batool Khazali
+4. Sarah Al Shorman
 
 ## Project Context
 The election website includes the following functionalities:
